@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "64536f04eab30863dd46940e",
+    "name": "Lincoln Mark LT",
+    "price": "$12000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lincoln_Mark_LT_long_bed.jpg/400px-Lincoln_Mark_LT_long_bed.jpg",
+    "color": "brown",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "category": "gun skin",
+    "tags": [
+      "Lorem",
+      "nisi",
+      "consectetur",
+      "eu",
+      "occaecat",
+      "proident",
+      "occaecat"
+    ]
+  },
+  {
+    "_id": "64536f04ea0243ca72c00e81",
+    "name": "Chevrolet Venture",
+    "price": "$6000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/1997-2000_Chevrolet_Venture_SWB_3-Door.jpg/400px-1997-2000_Chevrolet_Venture_SWB_3-Door.jpg",
+    "color": "blue",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "category": "gun skin",
+    "tags": [
+      "velit",
+      "excepteur",
+      "reprehenderit",
+      "duis",
+      "exercitation",
+      "voluptate",
+      "dolor"
+    ]
+  },
+  {
+    "_id": "64536f0484aeb386b40a0aad",
+    "name": "Toyota Innova",
+    "price": "$7000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Toyota_Innova_%28first_generation%29_%28front%29%2C_Kajang.jpg/400px-Toyota_Innova_%28first_generation%29_%28front%29%2C_Kajang.jpg",
+    "color": "green",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "category": "gun skin",
+    "tags": [
+      "sit",
+      "consequat",
+      "ad",
+      "ut",
+      "anim",
+      "in",
+      "cupidatat"
+    ]
+  },
+  {
+    "_id": "64536f047f59ed75eccd0c67",
+    "name": "Jeep Patriot",
+    "price": "$10000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jeep_Patriot.jpg/400px-Jeep_Patriot.jpg",
+    "color": "blue",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "category": "gun skin",
+    "tags": [
+      "sunt",
+      "duis",
+      "est",
+      "consequat",
+      "est",
+      "ea",
+      "dolore"
+    ]
+  },
+  {
+    "_id": "64536f0470b48cc7b2af1071",
+    "name": "Renault Wind",
+    "price": "$7000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Renault_Wind_Dynamique_TCe_100_front_20100904.jpg/400px-Renault_Wind_Dynamique_TCe_100_front_20100904.jpg",
+    "color": "green",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "category": "gun skin",
+    "tags": [
+      "dolore",
+      "et",
+      "proident",
+      "do",
+      "ut",
+      "laborum",
+      "velit"
+    ]
+  },
+  {
+    "_id": "64536f04eab30863dd46940e",
+    "name": "Volkswagen Up",
+    "price": "$9000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/VW_white_up%21_1.0_%E2%80%93_Frontansicht%2C_14._April_2012%2C_Velbert.jpg/400px-VW_white_up%21_1.0_%E2%80%93_Frontansicht%2C_14._April_2012%2C_Velbert.jpg",
+    "color": "brown",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "category": "gun skin",
+    "tags": [
+      "Lorem",
+      "nisi",
+      "consectetur",
+      "eu",
+      "occaecat",
+      "proident",
+      "occaecat"
+    ]
+  },
+  {
+    "_id": "64536f04ea0243ca72c00e81",
+    "name": "Peugeot 208",
+    "price": "$8000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Peugeot_208_1.6_VTi_Allure_2014_%2815700189288%29.jpg/400px-Peugeot_208_1.6_VTi_Allure_2014_%2815700189288%29.jpg",
+    "color": "blue",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "category": "gun skin",
+    "tags": [
+      "velit",
+      "excepteur",
+      "reprehenderit",
+      "duis",
+      "exercitation",
+      "voluptate",
+      "dolor"
+    ]
+  },
+  {
+    "_id": "64536f0484aeb386b40a0aad",
+    "name": "Nissan Juke",
+    "price": "$4000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2011_Nissan_Juke_SL_--_11-10-2011.jpg/400px-2011_Nissan_Juke_SL_--_11-10-2011.jpg",
+    "color": "green",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "gun skin",
+    "tags": [
+      "sit",
+      "consequat",
+      "ad",
+      "ut",
+      "anim",
+      "in",
+      "cupidatat"
+    ]
+  },
+{
+    "_id": "64536f0484aeb386b40a0aad",
+    "name": "dolore labore ex",
+    "price": "$12000",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LEXUS_CT200h_Japan_2011_front.JPG/400px-LEXUS_CT200h_Japan_2011_front.JPG",
+    "color": "green",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "category": "gun skin",
+    "tags": [
+      "sit",
+      "consequat",
+      "ad",
+      "ut",
+      "anim",
+      "in",
+      "cupidatat"
+    ]
+  }
+]
